@@ -1,0 +1,3 @@
+-Giá trị x∈R và y∈(0,1). Chúng ta có thể hình dùng hàm sigmoid giống như hàm ánh xạ từ (−∞,∞)↦(0,1).
+-Hàm sigmoid là hàm không giảm (monotonic increasing), nghĩa là nếu x1≤x2 thì f(x1)≤f(x2). -Chúng ta thường dùng tính chất này khi chúng ta quan tâm đến thứ tự lớn hơn, nhỏ hơn, hơn là giá trị độ lớn của chúng.
+-Hàm sigmoid có độ dốc (tương đương với đạo hàm) lớn xung quanh giá trị x=0 và độ dốc rất nhỏ ở 2 đầu. Điều này gây ra vấn đề khi tính toán dựa vào giá trị đạo hàm. Vì giá trị đạo hàm quả nhỏ nên hầu như nó không có hữu ích gì.
